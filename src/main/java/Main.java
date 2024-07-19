@@ -29,5 +29,7 @@ public class Main {
         intStram.sorted().forEach(System.out::println);
         System.out.println(stringList2);
         System.out.println(stringList);
+        vbi8f lkjs
+            
     }
 }
